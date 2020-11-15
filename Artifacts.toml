@@ -1,0 +1,178 @@
+[[AFLplusplus]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "31caa97f2621fde5fbb5768d59ff40e9520e99fd"
+libc = "glibc"
+os = "linux"
+
+    [[AFLplusplus.download]]
+    sha256 = "6544117f007eae3984c1f5d46736beccc6dbb142874cb91b528535543d447941"
+    url = "https://github.com/JuliaBinaryWrappers/AFLplusplus_jll.jl/releases/download/AFLplusplus-v2.68.0+0/AFLplusplus.v2.68.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[AFLplusplus]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "384d4bb5f46262be0bc93297eadbc1016fdfc7b8"
+libc = "glibc"
+os = "linux"
+
+    [[AFLplusplus.download]]
+    sha256 = "e10c4510ec970e1258c1232d8b9f093ed1c9721180a31aa9e6b3480d2d76f0d6"
+    url = "https://github.com/JuliaBinaryWrappers/AFLplusplus_jll.jl/releases/download/AFLplusplus-v2.68.0+0/AFLplusplus.v2.68.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[AFLplusplus]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3c418ca4b3c612ddcf7f3f86a3c762e2cbf31818"
+libc = "musl"
+os = "linux"
+
+    [[AFLplusplus.download]]
+    sha256 = "04c58eba5c2d46a7650b15b33244b0d07e0135ff1ff00100ff454cfb356eed7c"
+    url = "https://github.com/JuliaBinaryWrappers/AFLplusplus_jll.jl/releases/download/AFLplusplus-v2.68.0+0/AFLplusplus.v2.68.0.aarch64-linux-musl-cxx03.tar.gz"
+[[AFLplusplus]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a3237586ac3178a5405eeb53cdef505f4df72ff9"
+libc = "musl"
+os = "linux"
+
+    [[AFLplusplus.download]]
+    sha256 = "e42e3e078de07c05ae3fd4d5a034b37ea2df46be7b5109380190d351aec7476e"
+    url = "https://github.com/JuliaBinaryWrappers/AFLplusplus_jll.jl/releases/download/AFLplusplus-v2.68.0+0/AFLplusplus.v2.68.0.aarch64-linux-musl-cxx11.tar.gz"
+[[AFLplusplus]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ea54a2e52751ebddb094d89912e0a217dfa75d64"
+libc = "glibc"
+os = "linux"
+
+    [[AFLplusplus.download]]
+    sha256 = "89c167559241b989c75b1637942271022cf565be848a605e41bdf8170ab841c0"
+    url = "https://github.com/JuliaBinaryWrappers/AFLplusplus_jll.jl/releases/download/AFLplusplus-v2.68.0+0/AFLplusplus.v2.68.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[AFLplusplus]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "78ff970cce7b1a9d35ad4e7d96149adda42a7486"
+libc = "glibc"
+os = "linux"
+
+    [[AFLplusplus.download]]
+    sha256 = "3e4ad0ad364c48dbb934c4ba510856d0e69d1926cda53c5962a065594f0e6d54"
+    url = "https://github.com/JuliaBinaryWrappers/AFLplusplus_jll.jl/releases/download/AFLplusplus-v2.68.0+0/AFLplusplus.v2.68.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[AFLplusplus]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "99f7aa9700b5c9f4a9ea70ad7d2a32c1168c19c8"
+libc = "glibc"
+os = "linux"
+
+    [[AFLplusplus.download]]
+    sha256 = "37d7fcda1a7ae0299bb97926736accc8991c510bcd65187c67079266bce9a377"
+    url = "https://github.com/JuliaBinaryWrappers/AFLplusplus_jll.jl/releases/download/AFLplusplus-v2.68.0+0/AFLplusplus.v2.68.0.i686-linux-gnu-cxx03.tar.gz"
+[[AFLplusplus]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5d2ca3916300dd1d5aec3c90362bf64ca616b05b"
+libc = "glibc"
+os = "linux"
+
+    [[AFLplusplus.download]]
+    sha256 = "f434aa324335ed4f7bdfda74069a4ec9bcecb5acfe06636d8034063e23a9e29d"
+    url = "https://github.com/JuliaBinaryWrappers/AFLplusplus_jll.jl/releases/download/AFLplusplus-v2.68.0+0/AFLplusplus.v2.68.0.i686-linux-gnu-cxx11.tar.gz"
+[[AFLplusplus]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "90783bab2ee90fc71fd73a99f2ae6b3bc78b0a62"
+libc = "musl"
+os = "linux"
+
+    [[AFLplusplus.download]]
+    sha256 = "f5669e054d9d1f41eb9cc1bf6578351550743183ac418c544905712a10e97486"
+    url = "https://github.com/JuliaBinaryWrappers/AFLplusplus_jll.jl/releases/download/AFLplusplus-v2.68.0+0/AFLplusplus.v2.68.0.i686-linux-musl-cxx03.tar.gz"
+[[AFLplusplus]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "dcada7022069a7dc5ca088358110d6f0d245334a"
+libc = "musl"
+os = "linux"
+
+    [[AFLplusplus.download]]
+    sha256 = "d0c1202e81117b4b8b13d83581da8e0e87fa002c0de3c00e64b5f86e877c3400"
+    url = "https://github.com/JuliaBinaryWrappers/AFLplusplus_jll.jl/releases/download/AFLplusplus-v2.68.0+0/AFLplusplus.v2.68.0.i686-linux-musl-cxx11.tar.gz"
+[[AFLplusplus]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4842f26c52abec3fd073f37802415a89f3b2b20e"
+libc = "glibc"
+os = "linux"
+
+    [[AFLplusplus.download]]
+    sha256 = "014cfa6562fba5aad78c04f35eabc403f55d0c4b14b24ba36f2c757acda8ca51"
+    url = "https://github.com/JuliaBinaryWrappers/AFLplusplus_jll.jl/releases/download/AFLplusplus-v2.68.0+0/AFLplusplus.v2.68.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[AFLplusplus]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d0aae177f688572c13134719af22d630fb0bf9e2"
+libc = "glibc"
+os = "linux"
+
+    [[AFLplusplus.download]]
+    sha256 = "645081e6fc26615e485384db4794c769e89daacad8168d65cbcf3476d8b04777"
+    url = "https://github.com/JuliaBinaryWrappers/AFLplusplus_jll.jl/releases/download/AFLplusplus-v2.68.0+0/AFLplusplus.v2.68.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[AFLplusplus]]
+arch = "x86_64"
+git-tree-sha1 = "d2f3fca9d729b50b3ac60a538499cdb149ba4162"
+os = "macos"
+
+    [[AFLplusplus.download]]
+    sha256 = "27bfb8c5ae0a1781e745e54abee2c9ba7677cfb52169aac56025ced750888c80"
+    url = "https://github.com/JuliaBinaryWrappers/AFLplusplus_jll.jl/releases/download/AFLplusplus-v2.68.0+0/AFLplusplus.v2.68.0.x86_64-apple-darwin.tar.gz"
+[[AFLplusplus]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c6fcae410e650ba0984de1c76793a1e66f33a0d6"
+libc = "glibc"
+os = "linux"
+
+    [[AFLplusplus.download]]
+    sha256 = "c5a73774471e632effd6bf2ffc2b41ea9d5a94807fcf40e431082457358a7785"
+    url = "https://github.com/JuliaBinaryWrappers/AFLplusplus_jll.jl/releases/download/AFLplusplus-v2.68.0+0/AFLplusplus.v2.68.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[AFLplusplus]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7c27758c840bda663b95ed25318715b59dab9014"
+libc = "glibc"
+os = "linux"
+
+    [[AFLplusplus.download]]
+    sha256 = "8e0274de2fba80c73eaf300dce4fbf52198b73fa0594306be707afd4958cf3e1"
+    url = "https://github.com/JuliaBinaryWrappers/AFLplusplus_jll.jl/releases/download/AFLplusplus-v2.68.0+0/AFLplusplus.v2.68.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[AFLplusplus]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f86d91c262ab8d5376395f433b0ff16e9eb7a460"
+libc = "musl"
+os = "linux"
+
+    [[AFLplusplus.download]]
+    sha256 = "34cf09b2bedd164397d5005c8359be6d1970a8d016033834cc4ea5704d494081"
+    url = "https://github.com/JuliaBinaryWrappers/AFLplusplus_jll.jl/releases/download/AFLplusplus-v2.68.0+0/AFLplusplus.v2.68.0.x86_64-linux-musl-cxx03.tar.gz"
+[[AFLplusplus]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6d079c4f10426c819ea44daf8bb2d64ba16d8c05"
+libc = "musl"
+os = "linux"
+
+    [[AFLplusplus.download]]
+    sha256 = "1377b2ce5bec5f9ed9a43f48b10a1f40e2c9bbd05b399a1be194381ea45d44b8"
+    url = "https://github.com/JuliaBinaryWrappers/AFLplusplus_jll.jl/releases/download/AFLplusplus-v2.68.0+0/AFLplusplus.v2.68.0.x86_64-linux-musl-cxx11.tar.gz"
+[[AFLplusplus]]
+arch = "x86_64"
+git-tree-sha1 = "cebb81e3fff79935fa3f88c4301c81ad7b4b3b99"
+os = "freebsd"
+
+    [[AFLplusplus.download]]
+    sha256 = "1c9a07032c61e8256cc5872a3a9b6085b50964f7010df66df1d229b55d46a8da"
+    url = "https://github.com/JuliaBinaryWrappers/AFLplusplus_jll.jl/releases/download/AFLplusplus-v2.68.0+0/AFLplusplus.v2.68.0.x86_64-unknown-freebsd.tar.gz"
